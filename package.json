@@ -32,7 +32,7 @@
     "npm-run-all": "^2.3.0",
     "onchange": "^6.0.0",
     "postcss-cli": "^6.1.3",
-    "postcss-header": "^1.0.0",
+    "postcss-header": "^3.0.3",
     "rimraf": "^2.6.2",
     "stylelint": "^9.2.1",
     "stylelint-config-recommended-scss": "^3.2.0",
